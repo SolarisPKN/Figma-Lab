@@ -1,0 +1,12 @@
+{
+  "title": "SolarisPKN-Stats",
+  "description": "Displays detailed statistics and insights for SolarisPKN users, offering a clear overview of project data in a visually appealing landing page.",
+  "language": "es",
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  },
+  "robots": {
+    "index": true
+  }
+}
